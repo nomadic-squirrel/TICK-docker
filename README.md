@@ -10,8 +10,6 @@ There is also [this community Docker Swarm Compose file](https://gist.github.com
 
 Start all the images as follows:
 
-    # cd to desired version
-    cd 1.2/
     # Start all images in the background
     docker-compose up -d
 
